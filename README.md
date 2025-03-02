@@ -39,7 +39,7 @@ The follwoing receomeded labs have been completed sucessfully:
 
 **Lab 1 Get Data in Power Bi Desktop**
 
-<img width="481" alt="" src="https://github.com/user-attachments/assets/55488fe1-c336-4965-8efa-bf18e7367965" />
+<img width="481" alt="" src="https://github.com/user-attachments/assets/55488fe1-c336-4965-8efa-bf18e7367965"/>
 
 
 **Lab 2 Load Transformed Data in Power BI Desktop**
